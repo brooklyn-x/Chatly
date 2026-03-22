@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Real-Time Chat Application x
 
 A scalable, real-time messaging platform designed to facilitate seamless communication.
 
